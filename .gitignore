@@ -2,6 +2,7 @@
 .DS_Store
 *.local
 *.log*
+/pnpm-lock.yaml
 
 # Dist
 node_modules
